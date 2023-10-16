@@ -3,7 +3,7 @@ People Counting in Real-Time using live video stream/IP camera in OpenCV.
 
 > NOTE: This is an improvement/modification to https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 
-[Screencast from 16.10.2023 23:30:21.webm](https://github.com/chingizseyidbayli/RealTimeTrafficTracking/assets/15063807/4bcedc92-d2f2-4671-953a-3c65a780ce1a)
+[tracking.webm](https://github.com/chingizseyidbayli/RealTimeTrafficTracking/assets/15063807/4a6543d9-a488-4f78-a1f0-c3bd2150d0d3)
 
 
 - The primary aim is to use the project as a business perspective, ready to scale.
